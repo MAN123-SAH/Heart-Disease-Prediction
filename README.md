@@ -88,7 +88,7 @@ http://localhost:8501
 
 ## 📊 Model Information
 
-* Algorithm Used: Random Forest / Decision Tree (based on your training)
+* Algorithm Used: Random Forest / Decision Tree 
 * Evaluation Metrics:
 
   * Accuracy
